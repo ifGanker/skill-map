@@ -214,4 +214,7 @@
 	  - SVG: D3/Raphaël/Snap.svg/DataV
 	  - Canvas: CreateJS/KineticJS
 	  - WebGL/Three.JS
+## 参考资料
 
+- [前端技能图谱](https://leohxj.gitbooks.io/front-end-database/interview/skill-path.html)
+- [Markdown](http://xianbai.me/learn-md/index.html)
